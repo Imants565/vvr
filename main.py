@@ -1,1 +1,2 @@
 print("Labdien")
+print("Čau")
